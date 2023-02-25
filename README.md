@@ -1,4 +1,4 @@
-# Twitter-Update-Handle-P
+# Twitter-Update-Handle
 This script will monitor a twitter handle and attempt to take it when it becomes available.
 
 ## Installation Instructions
